@@ -1,7 +1,7 @@
 #basic of python
 #function built in functions
 # 1 system function which is built by system
-# 2 user defined function is a custom that you create yourself in program while solving any type of code that you don't whant to type over over again
+# 2 user defined function is a custom that you create yourself in program while solving any type of code that you don't want to type over over again
 
 """
 print() like print("jinal") output will be jinal
