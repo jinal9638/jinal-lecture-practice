@@ -38,8 +38,6 @@ discount=100
 price-=discount
 #after discount
 print(price)
-dis_percentage=0.1
-value_product=15000
 
 #check if a number is even or odd
 num=int(input("enter a no:"))
